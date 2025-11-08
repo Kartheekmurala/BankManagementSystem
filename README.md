@@ -159,10 +159,6 @@ javac -cp "C:\jar\ojdbc17.jar" src\App.java src\dao\*.java src\db\*.java src\gui
 java -cp "src;C:\jar\ojdbc17.jar" App
 ```
 
-If ₹ (rupee) symbol doesn’t display properly:
-```bash
-java "-Dfile.encoding=UTF-8" -cp "src;C:\jar\ojdbc17.jar" App
-```
 
 ---
 
@@ -173,17 +169,6 @@ java "-Dfile.encoding=UTF-8" -cp "src;C:\jar\ojdbc17.jar" App
 | **Customers** | Add, search, and update customer details |
 | **Accounts** | Create, deposit, withdraw, transfer, and close accounts |
 | **Transactions** | View transaction history with timestamps and totals |
-
----
-## 👨‍💻 Developer
-
-**Murala Leela Kartheek**  
-🎓 *B.Tech (CSE - Honors), Velagapudi Ramakrishna Siddhartha Engineering College*  
-💻 Full Stack Developer | Deep Learning | Cloud | Oracle | Android  
-
-📧 **murala.leela.kartheek@example.com**  
-🌐 **[GitHub](https://github.com/your_username)**  
-🔗 **[LinkedIn](https://linkedin.com/in/your_profile)**  
 
 ---
 
@@ -207,5 +192,6 @@ You are free to modify and reuse it with proper credit.
 ---
 
 <p align="center">Made with ❤️ by <b>Murala Leela Kartheek</b></p>
+
 
 
