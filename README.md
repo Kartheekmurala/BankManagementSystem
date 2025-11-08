@@ -151,12 +151,12 @@ CREATE TABLE transactions (
 
 ### 🪶 Step 1: Compile
 ```bash
-javac -cp "C:\jar\ojdbc17.jar" src\App.java src\dao\*.java src\db\*.java src\gui\*.java src\model\*.java
+javac -cp "Jar file path" src\App.java src\dao\*.java src\db\*.java src\gui\*.java src\model\*.java
 ```
 
 ### 🪶 Step 2: Run
 ```bash
-java -cp "src;C:\jar\ojdbc17.jar" App
+java -cp "src;Path of jar file" App
 ```
 
 
@@ -192,6 +192,7 @@ You are free to modify and reuse it with proper credit.
 ---
 
 <p align="center">Made with ❤️ by <b>Murala Leela Kartheek</b></p>
+
 
 
 
